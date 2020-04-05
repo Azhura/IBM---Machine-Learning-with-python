@@ -1,6 +1,11 @@
 # IBM Machine-Learning-with-python
 
-https://www.coursera.org/learn/machine-learning-with-python/ungradedLti/TzBLF/lab-logistic-regression
+https://www.coursera.org/learn/machine-learning-with-python
 
-Laboratory practice with different models.
-Course - IBM -> Coursera 
+Laboratory practice with different models.   
+
+Simple and Multiple Linear Regression.   
+Polynomial Regression.   
+Logistic Regression.   
+K-Nearest-neighbors.   
+Decision-Trees.   
