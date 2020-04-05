@@ -2,7 +2,7 @@
 
 https://www.coursera.org/learn/machine-learning-with-python
 
-Laboratory practice with different models.   
+Laboratory:
 
 Simple and Multiple Linear Regression.   
 Polynomial Regression.   
