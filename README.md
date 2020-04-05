@@ -1,4 +1,4 @@
-# IBM Machine-Learning-with-python
+# Machine Learning with python - Course IBM
 
 https://www.coursera.org/learn/machine-learning-with-python
 
