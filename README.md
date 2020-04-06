@@ -1,4 +1,4 @@
-# LAB´S: Machine Learning with python     
+# LAB - Machine Learning with python     
 
 https://www.coursera.org/learn/machine-learning-with-python
 
