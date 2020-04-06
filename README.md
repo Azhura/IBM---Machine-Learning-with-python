@@ -10,3 +10,5 @@ SVM - (Support Vector Machines).
 K-Nearest-neighbors.     
 Decision-Trees.   
 K-Means   
+Hierarchical Clustering   
+
