@@ -3,9 +3,9 @@
 https://www.coursera.org/learn/machine-learning-with-python
 
 Simple and Multiple Linear Regression.   
-Polynomial Regression.   
-Logistic Regression. 
+Polynomial Regression.    
+Logistic Regression.    
 SVM - (Support Vector Machines).   
-K-Nearest-neighbors.   
+K-Nearest-neighbors.     
 Decision-Trees.   
 K-Means   
