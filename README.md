@@ -7,3 +7,4 @@ Polynomial Regression.
 Logistic Regression.   
 K-Nearest-neighbors.   
 Decision-Trees.   
+K-Means   
