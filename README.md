@@ -1,7 +1,7 @@
 # LAB - Machine Learning with python     
 <b>Course:</b> https://www.coursera.org/learn/machine-learning-with-python    
 
-<img src="https://images.youracclaim.com/size/110x110/images/9ac4c3fc-df44-49dd-adfc-5d942f46cdb1/Python%2Bfor%2BData%2BSci%2Band%2BAI.png" class="center">   
+<img src="https://images.youracclaim.com/size/340x340/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine%2BLearning%2Bwith%2BPython.png" class="center">   
 
 Simple and Multiple Linear Regression.   
 Polynomial Regression.    
